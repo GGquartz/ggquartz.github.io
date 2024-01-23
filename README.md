@@ -1,4 +1,4 @@
-# chlapecky-web
+# chlapeckyweb
 
 ## Project setup
 ```
