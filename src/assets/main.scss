@@ -1,3 +1,14 @@
 body {
   margin: 0;
+  background-image: url('./img/bg-main.png');
+  background-color: #b3a799;
+  background-size: 100% auto;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+.body-container {
+  background-color: rgba(41, 41, 41, 0.75);
+  border-radius: 20px;
+  min-height: 750px;
 }

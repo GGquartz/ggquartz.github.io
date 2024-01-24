@@ -1,0 +1,23 @@
+@use './variables.scss' as v;
+
+footer {
+  background-color: v.$gray-primary;
+  color: white;
+  width: 100%;
+  height: 120px;
+
+  .main-footer {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 0 50px 0 50px;
+
+    > div {
+      display: flex;
+
+      > p {
+        margin: 0;
+      }
+    }
+  }
+}
